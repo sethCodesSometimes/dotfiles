@@ -81,3 +81,10 @@
 (setq doom-theme 'doom-monokai-spectrum) ;; unfortunately kanagawa is not
 ;;                                          readable in some bits, the creator 
 ;;                                          must not use org mode
+
+(setq scroll-margin 0 ;; this bit makes it so the bottom line isn't in the middle
+      scroll-conservatively 101
+      scroll-preserve-screen-position t
+      evil-smooth-scroll nil)
+
+(setq display-line-numbers-type 'relative) ;; relative line numbers
