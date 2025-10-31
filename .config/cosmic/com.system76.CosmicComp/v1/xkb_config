@@ -1,0 +1,7 @@
+(
+    rules: "",
+    model: "",
+    layout: "us,gb",
+    variant: ",",
+    options: Some(",lv3:ralt_switch,caps:swapescape"),
+)
