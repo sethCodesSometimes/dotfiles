@@ -2,34 +2,6 @@
     (
         modifiers: [
             Super,
-            Shift,
-        ],
-        key: "y",
-        description: Some("yazi"),
-    ): Spawn("ghostty -e fish -c \"y; exec fish\""),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "b",
-    ): Spawn("ghostty -e btop"),
-    (
-        modifiers: [
-            Super,
-            Alt,
-        ],
-        key: "e",
-        description: Some("Emacs"),
-    ): Spawn("emacs"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "a",
-    ): Spawn("anki"),
-    (
-        modifiers: [
-            Super,
         ],
         key: "n",
         description: Some("NeoVim"),
@@ -40,6 +12,32 @@
         ],
         key: "z",
     ): System(WebBrowser),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "e",
+    ): Spawn("emacs"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "b",
+    ): Spawn("ghostty -e btop"),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "a",
+    ): Spawn("anki"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "y",
+        description: Some("yazi"),
+    ): Spawn("ghostty -e fish -c \"y; exec fish\""),
     (
         modifiers: [
             Super,
