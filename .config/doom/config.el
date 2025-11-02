@@ -43,9 +43,14 @@
 (setq org-directory "~/org/")
 (setq org-agenda-files '("~/org/school.org"
                          "~/org/personal.org"))
-
+(setq org-log-into-drawer t) ;; removes ugly "State "DONE"..." text
 (setq org-agenda-start-on-weekday 1)
 (setq calendar-week-start-day 1)
+(setq org-modules '(org-habit))
+(add-hook 'after-save-hook
+          (lambda ()
+            (when (eq major-mode 'org-mode)
+              (org-agenda-redo-all)))) ;; refresh agenda on file save
 ;; Whenever you reconfigure a package, make sure to wrap your config in an
 ;; `after!' block, otherwise Doom's defaults may override your settings. E.g.
 ;;
@@ -82,7 +87,7 @@
 ;;                                          readable in some bits, the creator 
 ;;                                          must not use org mode
 
-(setq scroll-margin 0 ;; this bit makes it so the bottom line isn't in the middle
+(setq scroll-margin 5 ;; this bit makes it so the bottom line isn't in the middle
       scroll-conservatively 101
       scroll-preserve-screen-position t
       evil-smooth-scroll nil)
