@@ -4,4 +4,6 @@
     layout: "us,gb",
     variant: ",",
     options: Some(",lv3:ralt_switch,caps:swapescape"),
+    repeat_delay: 350,
+    repeat_rate: 25,
 )

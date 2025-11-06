@@ -44,8 +44,11 @@
 (setq org-agenda-files '("~/org/school.org"
                          "~/org/personal.org"))
 (setq org-log-into-drawer t) ;; removes ugly "State "DONE"..." text
-(setq org-agenda-start-on-weekday 1)
+; (setq org-agenda-start-on-weekday 1)
 (setq calendar-week-start-day 1)
+(after! org
+  (setq org-agenda-start-day "0"))
+        ; org-agenda-span 7)
 (setq org-modules '(org-habit))
 (add-hook 'after-save-hook
           (lambda ()

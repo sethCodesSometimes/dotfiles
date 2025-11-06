@@ -63,7 +63,7 @@ if status is-interactive
 end
 
 function fish_greeting
-    fastfetch
+    echo go make stuff
 end
 
 function retry-spotdl
