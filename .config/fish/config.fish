@@ -99,3 +99,7 @@ function lzdot
 end
 
 alias dg='ddgr'
+
+alias n='nvim'
+fish_add_path ~/.spicetify/
+alias spd='python3 ~/spotify-downloader/spotify-downloader.py'
