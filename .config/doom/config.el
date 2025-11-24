@@ -42,13 +42,14 @@
 ;; change `org-directory'. It must be set before org loads!
 (setq org-directory "~/org/")
 (setq org-agenda-files '("~/org/school.org"
-                         "~/org/personal.org"))
+                         "~/org/personal.org"
+                         "~/org/timetable.org"))
 (setq org-log-into-drawer t) ;; removes ugly "State "DONE"..." text
 ; (setq org-agenda-start-on-weekday 1)
 (setq calendar-week-start-day 1)
-(after! org
-  (setq org-agenda-start-day "0"))
-        ; org-agenda-span 7)
+; (after! org
+;   (setq org-agenda-start-day "0"))
+;         ; org-agenda-span 7) ;; DO NOT RE-ENABLE IT MAKES EVERYTHING NOT SHOW
 (setq org-modules '(org-habit))
 (add-hook 'after-save-hook
           (lambda ()
@@ -86,7 +87,7 @@
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
 
-(setq doom-theme 'doom-monokai-spectrum) ;; unfortunately kanagawa is not
+(setq doom-theme 'doom-monokai-ristretto) ;; unfortunately kanagawa is not
 ;;                                          readable in some bits, the creator 
 ;;                                          must not use org mode
 
@@ -96,3 +97,7 @@
       evil-smooth-scroll nil)
 
 (setq display-line-numbers-type 'relative) ;; relative line numbers
+
+(setq default-frame-alist '((undecorated . t))) ;; no titlebar
+(setq org-agenda-show-future-repeats t)
+
