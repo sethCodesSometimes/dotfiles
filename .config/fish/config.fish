@@ -5,6 +5,9 @@ end
 # Created by `pipx` on 2025-09-24 20:45:25
 set PATH $PATH /home/seth/.local/bin
 
+set fish_cursor_default block blink
+set fish_cursor_insert block blink
+set fish_cursor_visual block
 
 alias bat="batcat"
 
