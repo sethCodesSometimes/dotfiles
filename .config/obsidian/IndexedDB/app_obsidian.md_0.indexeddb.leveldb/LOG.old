@@ -1,0 +1,53 @@
+2025/11/23-17:04:44.313 8ab6 Reusing MANIFEST /home/seth/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/23-17:04:44.314 8ab6 Recovering log #1364
+2025/11/23-17:04:44.352 8ab6 Reusing old log /home/seth/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/001364.log 
+2025/11/23-17:04:44.353 8ab6 Delete type=2 #1360
+2025/11/23-17:04:44.353 8ab6 Delete type=2 #1362
+2025/11/23-17:04:44.353 8ab6 Delete type=2 #1363
+2025/11/23-17:04:44.353 8ab6 Delete type=2 #1361
+2025/11/23-17:04:44.353 8ab6 Delete type=2 #1365
+2025/11/23-17:04:51.115 8ab6 Level-0 table #1372: started
+2025/11/23-17:04:51.126 8ab6 Level-0 table #1372: 935115 bytes OK
+2025/11/23-17:04:51.128 8ab6 Delete type=0 #1364
+2025/11/23-17:04:51.241 8ab5 Compacting 1@1 + 4@2 files
+2025/11/23-17:04:51.260 8ab5 Generated table #1373@1: 6633 keys, 2163464 bytes
+2025/11/23-17:04:51.280 8ab5 Generated table #1374@1: 17542 keys, 2194484 bytes
+2025/11/23-17:04:51.298 8ab5 Generated table #1375@1: 9455 keys, 2169160 bytes
+2025/11/23-17:04:51.306 8ab5 Generated table #1376@1: 3350 keys, 1302718 bytes
+2025/11/23-17:04:51.306 8ab5 Compacted 1@1 + 4@2 files => 7829826 bytes
+2025/11/23-17:04:51.308 8ab5 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/11/23-17:04:52.248 8ab6 Level-0 table #1378: started
+2025/11/23-17:04:52.256 8ab6 Level-0 table #1378: 1097555 bytes OK
+2025/11/23-17:04:52.259 8ab6 Delete type=2 #1366
+2025/11/23-17:04:52.260 8ab6 Delete type=2 #1368
+2025/11/23-17:04:52.260 8ab6 Delete type=2 #1372
+2025/11/23-17:04:52.260 8ab6 Delete type=0 #1371
+2025/11/23-17:04:52.260 8ab6 Delete type=2 #1369
+2025/11/23-17:04:52.260 8ab6 Delete type=2 #1367
+2025/11/23-17:04:52.424 8b2e Compacting 1@1 + 4@2 files
+2025/11/23-17:04:52.445 8b2e Generated table #1379@1: 6633 keys, 2162827 bytes
+2025/11/23-17:04:52.464 8b2e Generated table #1380@1: 17542 keys, 2194484 bytes
+2025/11/23-17:04:52.483 8b2e Generated table #1381@1: 9455 keys, 2169160 bytes
+2025/11/23-17:04:52.495 8b2e Generated table #1382@1: 3350 keys, 1302108 bytes
+2025/11/23-17:04:52.495 8b2e Compacted 1@1 + 4@2 files => 7828579 bytes
+2025/11/23-17:04:52.497 8b2e compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/11/23-17:04:52.497 8b2e Delete type=2 #1378
+2025/11/23-17:04:52.497 8b2e Delete type=2 #1373
+2025/11/23-17:04:52.497 8b2e Delete type=2 #1374
+2025/11/23-17:04:52.497 8b2e Delete type=2 #1376
+2025/11/23-17:04:52.497 8b2e Delete type=2 #1375
+2025/11/23-17:04:53.468 8b2e Level-0 table #1384: started
+2025/11/23-17:04:53.476 8b2e Level-0 table #1384: 1078412 bytes OK
+2025/11/23-17:04:53.478 8b2e Delete type=0 #1377
+2025/11/23-17:04:53.531 8b2f Compacting 1@1 + 4@2 files
+2025/11/23-17:04:53.551 8b2f Generated table #1385@1: 6637 keys, 2164192 bytes
+2025/11/23-17:04:53.574 8b2f Generated table #1386@1: 17542 keys, 2194484 bytes
+2025/11/23-17:04:53.590 8b2f Generated table #1387@1: 9455 keys, 2169160 bytes
+2025/11/23-17:04:53.601 8b2f Generated table #1388@1: 3350 keys, 1301639 bytes
+2025/11/23-17:04:53.601 8b2f Compacted 1@1 + 4@2 files => 7829475 bytes
+2025/11/23-17:04:53.603 8b2f compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/11/23-17:04:53.603 8b2f Delete type=2 #1384
+2025/11/23-17:04:53.603 8b2f Delete type=2 #1379
+2025/11/23-17:04:53.603 8b2f Delete type=2 #1380
+2025/11/23-17:04:53.603 8b2f Delete type=2 #1381
+2025/11/23-17:04:53.603 8b2f Delete type=2 #1382

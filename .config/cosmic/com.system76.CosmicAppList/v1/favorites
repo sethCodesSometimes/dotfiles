@@ -3,8 +3,9 @@
     "obsidian",
     "anki",
     "com.system76.CosmicSettings",
-    "com.system76.CosmicFiles",
     "Spotify",
     "com.mitchellh.ghostty",
     "Emacs",
+    "org.gnome.Nautilus",
+    "gnome-pomodoro",
 ]

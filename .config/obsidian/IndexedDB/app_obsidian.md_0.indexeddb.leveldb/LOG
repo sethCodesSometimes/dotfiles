@@ -1,0 +1,43 @@
+2025/11/24-20:05:17.149 1f947 Reusing MANIFEST /home/seth/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/24-20:05:17.149 1f947 Recovering log #1383
+2025/11/24-20:05:17.159 1f947 Reusing old log /home/seth/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/001383.log 
+2025/11/24-20:06:53.292 1f947 Level-0 table #1391: started
+2025/11/24-20:06:53.315 1f947 Level-0 table #1391: 1083189 bytes OK
+2025/11/24-20:06:53.319 1f947 Delete type=0 #1383
+2025/11/24-20:06:53.829 1f9c0 Compacting 1@1 + 4@2 files
+2025/11/24-20:06:53.851 1f9c0 Generated table #1392@1: 6637 keys, 2163735 bytes
+2025/11/24-20:06:53.870 1f9c0 Generated table #1393@1: 17555 keys, 2194751 bytes
+2025/11/24-20:06:53.886 1f9c0 Generated table #1394@1: 9461 keys, 2169447 bytes
+2025/11/24-20:06:53.895 1f9c0 Generated table #1395@1: 3353 keys, 1303087 bytes
+2025/11/24-20:06:53.895 1f9c0 Compacted 1@1 + 4@2 files => 7831020 bytes
+2025/11/24-20:06:53.897 1f9c0 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/11/24-20:06:53.897 1f9c0 Delete type=2 #1385
+2025/11/24-20:06:53.897 1f9c0 Delete type=2 #1387
+2025/11/24-20:06:53.897 1f9c0 Delete type=2 #1391
+2025/11/24-20:06:53.897 1f9c0 Delete type=2 #1386
+2025/11/24-20:06:53.897 1f9c0 Delete type=2 #1388
+2025/11/24-20:06:57.203 1f947 Level-0 table #1397: started
+2025/11/24-20:06:57.210 1f947 Level-0 table #1397: 1119196 bytes OK
+2025/11/24-20:06:57.213 1f947 Delete type=0 #1390
+2025/11/24-20:06:57.994 1f947 Compacting 1@1 + 4@2 files
+2025/11/24-20:06:58.011 1f947 Generated table #1398@1: 6636 keys, 2163291 bytes
+2025/11/24-20:06:58.030 1f947 Generated table #1399@1: 17555 keys, 2194751 bytes
+2025/11/24-20:06:58.046 1f947 Generated table #1400@1: 9461 keys, 2169447 bytes
+2025/11/24-20:06:58.057 1f947 Generated table #1401@1: 3353 keys, 1304599 bytes
+2025/11/24-20:06:58.057 1f947 Compacted 1@1 + 4@2 files => 7832088 bytes
+2025/11/24-20:06:58.059 1f947 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/11/24-20:06:58.059 1f947 Delete type=2 #1397
+2025/11/24-20:06:58.059 1f947 Delete type=2 #1393
+2025/11/24-20:06:58.059 1f947 Delete type=2 #1394
+2025/11/24-20:06:58.059 1f947 Delete type=2 #1395
+2025/11/24-20:06:58.059 1f947 Delete type=2 #1392
+2025/11/24-20:12:51.077 1f947 Level-0 table #1403: started
+2025/11/24-20:12:51.085 1f947 Level-0 table #1403: 1057098 bytes OK
+2025/11/24-20:12:51.089 1f947 Delete type=0 #1396
+2025/11/24-20:13:05.309 1f948 Compacting 1@1 + 4@2 files
+2025/11/24-20:13:05.329 1f948 Generated table #1404@1: 6636 keys, 2163183 bytes
+2025/11/24-20:13:05.354 1f948 Generated table #1405@1: 17543 keys, 2194284 bytes
+2025/11/24-20:13:05.374 1f948 Generated table #1406@1: 9213 keys, 2167753 bytes
+2025/11/24-20:13:05.399 1f948 Generated table #1407@1: 3693 keys, 1335683 bytes
+2025/11/24-20:13:05.399 1f948 Compacted 1@1 + 4@2 files => 7860903 bytes
+2025/11/24-20:13:05.402 1f948 compacted to: files[ 0 0 4 0 0 0 0 ]

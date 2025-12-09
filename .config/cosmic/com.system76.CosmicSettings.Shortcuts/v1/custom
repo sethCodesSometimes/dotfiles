@@ -10,8 +10,8 @@
         modifiers: [
             Super,
         ],
-        key: "z",
-    ): System(WebBrowser),
+        key: "a",
+    ): Disable,
     (
         modifiers: [
             Super,
@@ -21,15 +21,24 @@
     (
         modifiers: [
             Super,
+            Shift,
         ],
-        key: "b",
-    ): Spawn("ghostty -e btop"),
+        key: "o",
+        description: Some("Obsidian"),
+    ): Spawn("obsidian"),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "m",
+    ): Minimize,
     (
         modifiers: [
             Super,
         ],
-        key: "a",
-    ): Spawn("anki"),
+        key: "b",
+    ): Spawn("ghostty -e btop"),
     (
         modifiers: [
             Super,
@@ -41,8 +50,14 @@
     (
         modifiers: [
             Super,
-            Shift,
+            Alt,
         ],
-        key: "m",
-    ): Minimize,
+        key: "a",
+    ): System(AppLibrary),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "z",
+    ): System(WebBrowser),
 }

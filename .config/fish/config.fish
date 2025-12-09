@@ -66,7 +66,6 @@ if status is-interactive
 end
 
 function fish_greeting
-    echo go make stuff
 end
 
 function retry-spotdl

@@ -1,0 +1,5 @@
+2025/09/28-11:02:05.745 154e Reusing MANIFEST /home/seth/.config/via-nativia/Local Storage/leveldb/MANIFEST-000001
+2025/09/28-11:02:05.745 154e Recovering log #16
+2025/09/28-11:02:05.748 154e Level-0 table #19: started
+2025/09/28-11:02:05.751 154e Level-0 table #19: 28646 bytes OK
+2025/09/28-11:02:05.753 154e Delete type=0 #16

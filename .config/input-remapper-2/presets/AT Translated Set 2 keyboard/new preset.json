@@ -1,0 +1,24 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 125,
+                "origin_hash": "a97130f0d681eedb68204401adc6c627"
+            },
+            {
+                "type": 1,
+                "code": 42,
+                "origin_hash": "a97130f0d681eedb68204401adc6c627"
+            },
+            {
+                "type": 1,
+                "code": 193,
+                "origin_hash": "a97130f0d681eedb68204401adc6c627"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Super_L + T",
+        "mapping_type": "key_macro"
+    }
+]

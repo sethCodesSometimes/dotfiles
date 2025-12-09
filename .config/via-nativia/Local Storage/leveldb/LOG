@@ -1,0 +1,18 @@
+2025/11/20-14:58:01.756 55cd Reusing MANIFEST /home/seth/.config/via-nativia/Local Storage/leveldb/MANIFEST-000001
+2025/11/20-14:58:01.756 55cd Recovering log #20
+2025/11/20-14:58:01.756 55cd Reusing old log /home/seth/.config/via-nativia/Local Storage/leveldb/000020.log 
+2025/11/20-14:59:02.049 55ce Level-0 table #23: started
+2025/11/20-14:59:02.072 55ce Level-0 table #23: 28639 bytes OK
+2025/11/20-14:59:02.074 55ce Delete type=0 #20
+2025/11/20-15:00:02.083 55ce Level-0 table #25: started
+2025/11/20-15:00:02.190 55ce Level-0 table #25: 28675 bytes OK
+2025/11/20-15:00:02.192 55ce Delete type=0 #22
+2025/11/20-15:00:02.192 55ce Compacting 4@0 + 1@1 files
+2025/11/20-15:00:02.197 55ce Generated table #26@0: 4 keys, 28703 bytes
+2025/11/20-15:00:02.197 55ce Compacted 4@0 + 1@1 files => 28703 bytes
+2025/11/20-15:00:02.198 55ce compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/11/20-15:00:02.198 55ce Delete type=2 #14
+2025/11/20-15:00:02.198 55ce Delete type=2 #17
+2025/11/20-15:00:02.198 55ce Delete type=2 #19
+2025/11/20-15:00:02.198 55ce Delete type=2 #23
+2025/11/20-15:00:02.198 55ce Delete type=2 #25
